@@ -9,3 +9,9 @@ In the **Easy Classroom** students can get the:
 - Attendence marks e.t.c.
 
 
+## Database Description :
+### ER Diagram :
+![ER-Diagram](Images/er_diagram.png)
+
+
+**Note :** the project is under development.
