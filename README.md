@@ -10,7 +10,10 @@ In the **Easy Classroom** students can get the:
 
 
 ## Database Description :
-### ER Diagram :
+
+### Basic Diagram : ![](Images/basic&#32;diagram.png)
+
+### Entity Relationship Diagram : 
 ![ER-Diagram](Images/er_diagram.png)
 
 
